@@ -9,5 +9,4 @@ import (
 	_ "github.com/amaysim-au/logspout/transports/udp"
 	_ "github.com/amaysim-au/logspout/transports/tls"
 	_ "github.com/amaysim-au/logspout-http/http"
-	_ "github.com/amaysim-au/logspout-sumo/http"
 )
